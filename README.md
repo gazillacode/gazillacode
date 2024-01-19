@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gazillacode
-- 👀 I’m interested in coding and surfing
-- 🌱 I’m currently learning Vue.js and Javascript
-- 📫 You can find all me details here: https://garypage.ie/
+- 👀 I’m interested in coding, techno and surfing
+- 🌱 I’m a front-end software developer
+- 📫 You can connect with me here: https://www.linkedin.com/in/garypage/
 
 <!---
 gazillacode/gazillacode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
